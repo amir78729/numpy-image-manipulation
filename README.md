@@ -155,7 +155,9 @@ def print_metadata(image):
 با توجه به فرمول زیر میانگین را باید محاسبه کنیم و با کمک آن تابع زیر را تعریف میکنیم: 
  </div>
  
-M = (x1+...+xn)/(n) = (x1+...+x4000000)/(40000000)
+
+<img src="https://latex.codecogs.com/gif.latex?M=\frac{x_1+...+x_n}{n}">
+
 
 ```python
 def calculate_mean(img):
