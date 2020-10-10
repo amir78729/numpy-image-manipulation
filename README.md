@@ -156,7 +156,9 @@ def print_metadata(image):
  </div>
  
 
-<img src="https://latex.codecogs.com/gif.latex?M=\frac{x_1+...+x_n}{n}">
+<p align="center">
+ <img src="https://latex.codecogs.com/gif.latex?M=\frac{x_1+...+x_n}{n}">
+</p>
 
 
 ```python
